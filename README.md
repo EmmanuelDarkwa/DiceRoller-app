@@ -1,0 +1,1 @@
+A diceRoller app using class components and a simple switch case method.
